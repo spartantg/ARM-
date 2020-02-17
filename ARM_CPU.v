@@ -1,8 +1,7 @@
 `timescale 1ns / 1ps
 
 /*
-	Group Members: Akhil and Jinson
-	Lab Name: ARM LEG v8 CPU Design 
+	
 */
 
 module ARM_CPU
